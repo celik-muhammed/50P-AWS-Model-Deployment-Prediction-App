@@ -23,15 +23,15 @@
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/celik-muhammed/MLD-Autoscout-Car-Price-Prediction-Beta-App-with-Streamlit/blob/master/README.md">01. MLD-Autoscout-Car-Price-Prediction-Beta-App-with-Streamlit</a></td>
-    <td><a href="https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project/blob/master/README.md">02. ML-Soldiers-Race-Classification</a></td>
+    <td><a href="https://github.com/celik-muhammed/MLD-Autoscout-Car-Price-Prediction-Beta-App-with-Streamlit/blob/master/README.md">01. MLD-Autoscout-Car-Price-Prediction-Beta-App-with-AWS</a></td>
+    <td><a href="https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project/blob/master/README.md">02. ML-Soldiers-Race-Classification-Beta-App-with-AWS</a></td>
   </tr>
 </tbody>
 <thead align='left'><tr><th colspan=2>2. Unsupervised Learning</th></tr></thead>
 <thead><tr><th>2.1 Clustering</th><th>2.2 Dimension Reduction (PCA)</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md">01. ML-Customers-Segmentation-Cluestering-Analysis</a></td>
+    <td><a href="https://github.com/celik-muhammed/ML-Customers-Segmentation-Cluestering-Analysis-Project/blob/master/README.md">01. ML-Customers-Segmentation-Cluestering-Analysis-Beta-App-with-AWS</a></td>
     <td><a href="">link</a></td>
   </tr>
 </tbody>
