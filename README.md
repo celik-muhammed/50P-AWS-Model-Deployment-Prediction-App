@@ -11,10 +11,10 @@
 [tableau]: https://public.tableau.com/app/profile/celikmuhammed "Tableau Page"
 [medium]: https://celik-muhammed.medium.com/ "Medium Page"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
-
+  
 <h3 align='right'>
   
-[14CS-Machine-Learning-Case-Studies-with-Python](https://github.com/celik-muhammed/14CS-Machine-Learning-Case-Studies-with-Python/blob/master/README.md)
+[14P-Machine-Learning-Projects-with-Python](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md)
 </h3>
   
 <table>
