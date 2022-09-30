@@ -23,7 +23,7 @@
 <thead><tr><th>1.1 Regression</th><th>1.2 Classification</th></tr></thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/celik-muhammed/AWS-Autoscout-Car-Price-Prediction-Model-Deployment-with-Streamlit/blob/master/README.md">01. AWS-Autoscout-Car-Price-Prediction-Model-Deployment-with-Streamlit</a></td>
+    <td><a href="https://github.com/celik-muhammed/MLD-Autoscout-Car-Price-Prediction-Beta-App-with-Streamlit/blob/master/README.md">01. MLD-Autoscout-Car-Price-Prediction-Beta-App-with-Streamlit</a></td>
     <td><a href="https://github.com/celik-muhammed/ML-Soldiers-Race-Classification-Project/blob/master/README.md">02. ML-Soldiers-Race-Classification</a></td>
   </tr>
 </tbody>
