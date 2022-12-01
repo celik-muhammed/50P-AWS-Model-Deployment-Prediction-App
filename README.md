@@ -14,7 +14,7 @@
   
 <h3 align='right'>
   
-[14P-Machine-Learning-Projects-with-Python](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md)
+[14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit](https://github.com/celik-muhammed/14MLD-Machine-Learning-Deployment-Beta-App-with-Streamlit/blob/master/README.md)
 </h3>
   
 <table>
